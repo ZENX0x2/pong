@@ -1,0 +1,8 @@
+﻿  main.cpp
+g:\code\raylibPong\raylibPong\main.cpp(49,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\code\raylibPong\raylibPong\main.cpp(55,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\code\raylibPong\raylibPong\main.cpp(56,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\code\raylibPong\raylibPong\main.cpp(76,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\code\raylibPong\raylibPong\main.cpp(127,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\code\raylibPong\raylibPong\main.cpp(128,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  raylibPong.vcxproj -> g:\code\raylibPong\x64\Debug\Pong.exe
