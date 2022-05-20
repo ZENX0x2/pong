@@ -2,3 +2,6 @@ Debug/
 Release/
 x64/
 .vs/
+raylibPong/Debug
+raylibPong/Release
+raylibPong/x64
