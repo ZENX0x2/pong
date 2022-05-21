@@ -126,6 +126,8 @@ int main()
 			ball.y = GetScreenHeight() / 2;
 			ball.speedY = 300;
 			ball.speedX = 300;
+			leftPaddle.x = GetScreenWidth() / 2;
+			leftPaddle.
 			winnerText = nullptr;
 		}
 
